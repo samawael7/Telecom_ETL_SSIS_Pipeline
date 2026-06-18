@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F46411-F4C0-76A1-B212-684177812A41}|Telecom_SSIS_Project.dtproj|D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Master.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{D7F46411-F4C0-76A1-B212-684177812A41}|Telecom_SSIS_Project.dtproj|solutionrelative:Master.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F46411-F4C0-76A1-B212-684177812A41}|Telecom_SSIS_Project.dtproj|D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_CallType_Dim.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{D7F46411-F4C0-76A1-B212-684177812A41}|Telecom_SSIS_Project.dtproj|solutionrelative:Load_CallType_Dim.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F46411-F4C0-76A1-B212-684177812A41}|Telecom_SSIS_Project.dtproj|D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_Call_Fact.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{D7F46411-F4C0-76A1-B212-684177812A41}|Telecom_SSIS_Project.dtproj|solutionrelative:Load_Call_Fact.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F46411-F4C0-76A1-B212-684177812A41}|Telecom_SSIS_Project.dtproj|D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_Customer_Dim.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{D7F46411-F4C0-76A1-B212-684177812A41}|Telecom_SSIS_Project.dtproj|solutionrelative:Load_Customer_Dim.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F46411-F4C0-76A1-B212-684177812A41}|Telecom_SSIS_Project.dtproj|D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_Plan_Dim.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{D7F46411-F4C0-76A1-B212-684177812A41}|Telecom_SSIS_Project.dtproj|solutionrelative:Load_Plan_Dim.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F46411-F4C0-76A1-B212-684177812A41}|Telecom_SSIS_Project.dtproj|D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_Network_Dim.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{D7F46411-F4C0-76A1-B212-684177812A41}|Telecom_SSIS_Project.dtproj|solutionrelative:Load_Network_Dim.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F46411-F4C0-76A1-B212-684177812A41}|Telecom_SSIS_Project.dtproj|D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_Location_Dim.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{D7F46411-F4C0-76A1-B212-684177812A41}|Telecom_SSIS_Project.dtproj|solutionrelative:Load_Location_Dim.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Load_CallType_Dim.dtsx [Design]",
+              "DocumentMoniker": "D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_CallType_Dim.dtsx",
+              "RelativeDocumentMoniker": "Load_CallType_Dim.dtsx",
+              "ToolTip": "D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_CallType_Dim.dtsx [Design]*",
+              "RelativeToolTip": "Load_CallType_Dim.dtsx [Design]*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANbSURBVEhLtZVPbBR1FMc/0z/WlrYsalsqFEJrW4uaNo0nEhMCB4wHDhJCwkVTFYkaTTDxogdPGI0XTkRNtIfGhnirxkgkAuqBmxg0CkhCgUAr3Xa73bYzO\u002B\u002BPh9nZdretN77JL3kz7/f7zPu99/IGHoTcPUjtz8fP5oef7m02N1QNVUdNUYVYFDVHVBF1frvyZ\u002B7X82ffOv/t2NeVxHV0euz7vJWkqmuWqJpIsk59OWEfnz4TPXdw5MVqTqqa1BDR8ssgCNasmiCgpiaAIGA5jBjaPVDf2//UV08M7z9aPrhKZbCaVXrWkQFuzu27U5w89RlXr/3Tkmnf\u002BUX1PlaD41gqPVUyB1MnVufDEyO8f\u002BJN3j72Mt27djVW7wWoSw3VlVR88s21sg3w3uE\u002Bxi/c4s5MCDjusG9wK709Ozn386WKvalW5VhwT\u002BwZa2Qq081UppuZKEDMmV8UpjPdTGd6uL9pO2HREHGsdKZaFcXbaJMZVLvMHDHH02iqtAJWxVKyxATLBYLlApgiYrhTfhdES6iRRLxBzVeKJ1KO\u002BPi\u002BDt54to7Xh\u002BsY2bsNMdg/1M7R3QFH\u002BuHQk/V0ZBoQ9TU3SbXSbqWI3WFnRxM72pvY3tbE4481IWo82tJA5\u002BZG2jc30pZ5mLra2iQVG4RcUTw1x9wZ/XGS0XOTjP00yfiFW4hALEZRDVFHxFEFFWd9bFXx1Bwz52qulr9qu/i7rosbs4KqIwJqXp4jsRqxOb4BeaWPRRCFeKWdyyqqI2bECmJw8co0hqPqbNnxDAePf3oGYOKHP0Jujr7EarBYOtUCMIW4mDg8uX56dTVYjmOO7OkkVqM49AhhNHg4txAxcam\u002BAAm4oniioAbPDzTzwtZFDrQvsrd/CypOXOrbtPWWI\u002BHf2WVu3Jnn9\u002BtZfrk8laKoAIsIsSWzYKCrld5trfR2ttDT2ZJA46RosTrgLCzFzMyHzOQiZvMR2Xy4EViT4S5JLtVALMmjWJLbWEEU3GG\u002BUCSbi5jNh2TnQ\u002BbypdSVVP6DHHr1g/xrrxxrzs7lkw\u002BoJ7k1K3VDqSPMiR7aRH9bAzfvFcjmQmbmI\u002B7dX\u002BS7i9cLXH6ntQLcN7jn3fxCoT59/j/1HfjoZFMtzOVDliIljJSwqNy\u002Bmy2DH5j\u002BAx0OTsw5xDHxAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-06-18T12:22:52.987Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Load_Customer_Dim.dtsx [Design]",
+              "DocumentMoniker": "D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_Customer_Dim.dtsx",
+              "RelativeDocumentMoniker": "Load_Customer_Dim.dtsx",
+              "ToolTip": "D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_Customer_Dim.dtsx [Design]",
+              "RelativeToolTip": "Load_Customer_Dim.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANbSURBVEhLtZVPbBR1FMc/0z/WlrYsalsqFEJrW4uaNo0nEhMCB4wHDhJCwkVTFYkaTTDxogdPGI0XTkRNtIfGhnirxkgkAuqBmxg0CkhCgUAr3Xa73bYzO\u002B\u002BPh9nZdretN77JL3kz7/f7zPu99/IGHoTcPUjtz8fP5oef7m02N1QNVUdNUYVYFDVHVBF1frvyZ\u002B7X82ffOv/t2NeVxHV0euz7vJWkqmuWqJpIsk59OWEfnz4TPXdw5MVqTqqa1BDR8ssgCNasmiCgpiaAIGA5jBjaPVDf2//UV08M7z9aPrhKZbCaVXrWkQFuzu27U5w89RlXr/3Tkmnf\u002BUX1PlaD41gqPVUyB1MnVufDEyO8f\u002BJN3j72Mt27djVW7wWoSw3VlVR88s21sg3w3uE\u002Bxi/c4s5MCDjusG9wK709Ozn386WKvalW5VhwT\u002BwZa2Qq081UppuZKEDMmV8UpjPdTGd6uL9pO2HREHGsdKZaFcXbaJMZVLvMHDHH02iqtAJWxVKyxATLBYLlApgiYrhTfhdES6iRRLxBzVeKJ1KO\u002BPi\u002BDt54to7Xh\u002BsY2bsNMdg/1M7R3QFH\u002BuHQk/V0ZBoQ9TU3SbXSbqWI3WFnRxM72pvY3tbE4481IWo82tJA5\u002BZG2jc30pZ5mLra2iQVG4RcUTw1x9wZ/XGS0XOTjP00yfiFW4hALEZRDVFHxFEFFWd9bFXx1Bwz52qulr9qu/i7rosbs4KqIwJqXp4jsRqxOb4BeaWPRRCFeKWdyyqqI2bECmJw8co0hqPqbNnxDAePf3oGYOKHP0Jujr7EarBYOtUCMIW4mDg8uX56dTVYjmOO7OkkVqM49AhhNHg4txAxcam\u002BAAm4oniioAbPDzTzwtZFDrQvsrd/CypOXOrbtPWWI\u002BHf2WVu3Jnn9\u002BtZfrk8laKoAIsIsSWzYKCrld5trfR2ttDT2ZJA46RosTrgLCzFzMyHzOQiZvMR2Xy4EViT4S5JLtVALMmjWJLbWEEU3GG\u002BUCSbi5jNh2TnQ\u002BbypdSVVP6DHHr1g/xrrxxrzs7lkw\u002BoJ7k1K3VDqSPMiR7aRH9bAzfvFcjmQmbmI\u002B7dX\u002BS7i9cLXH6ntQLcN7jn3fxCoT59/j/1HfjoZFMtzOVDliIljJSwqNy\u002Bmy2DH5j\u002BAx0OTsw5xDHxAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-06-18T13:06:59.992Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Load_Call_Fact.dtsx [Design]",
+              "DocumentMoniker": "D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_Call_Fact.dtsx",
+              "RelativeDocumentMoniker": "Load_Call_Fact.dtsx",
+              "ToolTip": "D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_Call_Fact.dtsx [Design]",
+              "RelativeToolTip": "Load_Call_Fact.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANbSURBVEhLtZVPbBR1FMc/0z/WlrYsalsqFEJrW4uaNo0nEhMCB4wHDhJCwkVTFYkaTTDxogdPGI0XTkRNtIfGhnirxkgkAuqBmxg0CkhCgUAr3Xa73bYzO\u002B\u002BPh9nZdretN77JL3kz7/f7zPu99/IGHoTcPUjtz8fP5oef7m02N1QNVUdNUYVYFDVHVBF1frvyZ\u002B7X82ffOv/t2NeVxHV0euz7vJWkqmuWqJpIsk59OWEfnz4TPXdw5MVqTqqa1BDR8ssgCNasmiCgpiaAIGA5jBjaPVDf2//UV08M7z9aPrhKZbCaVXrWkQFuzu27U5w89RlXr/3Tkmnf\u002BUX1PlaD41gqPVUyB1MnVufDEyO8f\u002BJN3j72Mt27djVW7wWoSw3VlVR88s21sg3w3uE\u002Bxi/c4s5MCDjusG9wK709Ozn386WKvalW5VhwT\u002BwZa2Qq081UppuZKEDMmV8UpjPdTGd6uL9pO2HREHGsdKZaFcXbaJMZVLvMHDHH02iqtAJWxVKyxATLBYLlApgiYrhTfhdES6iRRLxBzVeKJ1KO\u002BPi\u002BDt54to7Xh\u002BsY2bsNMdg/1M7R3QFH\u002BuHQk/V0ZBoQ9TU3SbXSbqWI3WFnRxM72pvY3tbE4481IWo82tJA5\u002BZG2jc30pZ5mLra2iQVG4RcUTw1x9wZ/XGS0XOTjP00yfiFW4hALEZRDVFHxFEFFWd9bFXx1Bwz52qulr9qu/i7rosbs4KqIwJqXp4jsRqxOb4BeaWPRRCFeKWdyyqqI2bECmJw8co0hqPqbNnxDAePf3oGYOKHP0Jujr7EarBYOtUCMIW4mDg8uX56dTVYjmOO7OkkVqM49AhhNHg4txAxcam\u002BAAm4oniioAbPDzTzwtZFDrQvsrd/CypOXOrbtPWWI\u002BHf2WVu3Jnn9\u002BtZfrk8laKoAIsIsSWzYKCrld5trfR2ttDT2ZJA46RosTrgLCzFzMyHzOQiZvMR2Xy4EViT4S5JLtVALMmjWJLbWEEU3GG\u002BUCSbi5jNh2TnQ\u002BbypdSVVP6DHHr1g/xrrxxrzs7lkw\u002BoJ7k1K3VDqSPMiR7aRH9bAzfvFcjmQmbmI\u002B7dX\u002BS7i9cLXH6ntQLcN7jn3fxCoT59/j/1HfjoZFMtzOVDliIljJSwqNy\u002Bmy2DH5j\u002BAx0OTsw5xDHxAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-06-18T13:21:36.762Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Load_Network_Dim.dtsx [Design]",
+              "DocumentMoniker": "D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_Network_Dim.dtsx",
+              "RelativeDocumentMoniker": "Load_Network_Dim.dtsx",
+              "ToolTip": "D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_Network_Dim.dtsx [Design]",
+              "RelativeToolTip": "Load_Network_Dim.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANbSURBVEhLtZVPbBR1FMc/0z/WlrYsalsqFEJrW4uaNo0nEhMCB4wHDhJCwkVTFYkaTTDxogdPGI0XTkRNtIfGhnirxkgkAuqBmxg0CkhCgUAr3Xa73bYzO\u002B\u002BPh9nZdretN77JL3kz7/f7zPu99/IGHoTcPUjtz8fP5oef7m02N1QNVUdNUYVYFDVHVBF1frvyZ\u002B7X82ffOv/t2NeVxHV0euz7vJWkqmuWqJpIsk59OWEfnz4TPXdw5MVqTqqa1BDR8ssgCNasmiCgpiaAIGA5jBjaPVDf2//UV08M7z9aPrhKZbCaVXrWkQFuzu27U5w89RlXr/3Tkmnf\u002BUX1PlaD41gqPVUyB1MnVufDEyO8f\u002BJN3j72Mt27djVW7wWoSw3VlVR88s21sg3w3uE\u002Bxi/c4s5MCDjusG9wK709Ozn386WKvalW5VhwT\u002BwZa2Qq081UppuZKEDMmV8UpjPdTGd6uL9pO2HREHGsdKZaFcXbaJMZVLvMHDHH02iqtAJWxVKyxATLBYLlApgiYrhTfhdES6iRRLxBzVeKJ1KO\u002BPi\u002BDt54to7Xh\u002BsY2bsNMdg/1M7R3QFH\u002BuHQk/V0ZBoQ9TU3SbXSbqWI3WFnRxM72pvY3tbE4481IWo82tJA5\u002BZG2jc30pZ5mLra2iQVG4RcUTw1x9wZ/XGS0XOTjP00yfiFW4hALEZRDVFHxFEFFWd9bFXx1Bwz52qulr9qu/i7rosbs4KqIwJqXp4jsRqxOb4BeaWPRRCFeKWdyyqqI2bECmJw8co0hqPqbNnxDAePf3oGYOKHP0Jujr7EarBYOtUCMIW4mDg8uX56dTVYjmOO7OkkVqM49AhhNHg4txAxcam\u002BAAm4oniioAbPDzTzwtZFDrQvsrd/CypOXOrbtPWWI\u002BHf2WVu3Jnn9\u002BtZfrk8laKoAIsIsSWzYKCrld5trfR2ttDT2ZJA46RosTrgLCzFzMyHzOQiZvMR2Xy4EViT4S5JLtVALMmjWJLbWEEU3GG\u002BUCSbi5jNh2TnQ\u002BbypdSVVP6DHHr1g/xrrxxrzs7lkw\u002BoJ7k1K3VDqSPMiR7aRH9bAzfvFcjmQmbmI\u002B7dX\u002BS7i9cLXH6ntQLcN7jn3fxCoT59/j/1HfjoZFMtzOVDliIljJSwqNy\u002Bmy2DH5j\u002BAx0OTsw5xDHxAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-06-18T12:04:59.142Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Master.dtsx [Design]",
+              "DocumentMoniker": "D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Master.dtsx",
+              "RelativeDocumentMoniker": "Master.dtsx",
+              "ToolTip": "D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Master.dtsx [Design]",
+              "RelativeToolTip": "Master.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANbSURBVEhLtZVPbBR1FMc/0z/WlrYsalsqFEJrW4uaNo0nEhMCB4wHDhJCwkVTFYkaTTDxogdPGI0XTkRNtIfGhnirxkgkAuqBmxg0CkhCgUAr3Xa73bYzO\u002B\u002BPh9nZdretN77JL3kz7/f7zPu99/IGHoTcPUjtz8fP5oef7m02N1QNVUdNUYVYFDVHVBF1frvyZ\u002B7X82ffOv/t2NeVxHV0euz7vJWkqmuWqJpIsk59OWEfnz4TPXdw5MVqTqqa1BDR8ssgCNasmiCgpiaAIGA5jBjaPVDf2//UV08M7z9aPrhKZbCaVXrWkQFuzu27U5w89RlXr/3Tkmnf\u002BUX1PlaD41gqPVUyB1MnVufDEyO8f\u002BJN3j72Mt27djVW7wWoSw3VlVR88s21sg3w3uE\u002Bxi/c4s5MCDjusG9wK709Ozn386WKvalW5VhwT\u002BwZa2Qq081UppuZKEDMmV8UpjPdTGd6uL9pO2HREHGsdKZaFcXbaJMZVLvMHDHH02iqtAJWxVKyxATLBYLlApgiYrhTfhdES6iRRLxBzVeKJ1KO\u002BPi\u002BDt54to7Xh\u002BsY2bsNMdg/1M7R3QFH\u002BuHQk/V0ZBoQ9TU3SbXSbqWI3WFnRxM72pvY3tbE4481IWo82tJA5\u002BZG2jc30pZ5mLra2iQVG4RcUTw1x9wZ/XGS0XOTjP00yfiFW4hALEZRDVFHxFEFFWd9bFXx1Bwz52qulr9qu/i7rosbs4KqIwJqXp4jsRqxOb4BeaWPRRCFeKWdyyqqI2bECmJw8co0hqPqbNnxDAePf3oGYOKHP0Jujr7EarBYOtUCMIW4mDg8uX56dTVYjmOO7OkkVqM49AhhNHg4txAxcam\u002BAAm4oniioAbPDzTzwtZFDrQvsrd/CypOXOrbtPWWI\u002BHf2WVu3Jnn9\u002BtZfrk8laKoAIsIsSWzYKCrld5trfR2ttDT2ZJA46RosTrgLCzFzMyHzOQiZvMR2Xy4EViT4S5JLtVALMmjWJLbWEEU3GG\u002BUCSbi5jNh2TnQ\u002BbypdSVVP6DHHr1g/xrrxxrzs7lkw\u002BoJ7k1K3VDqSPMiR7aRH9bAzfvFcjmQmbmI\u002B7dX\u002BS7i9cLXH6ntQLcN7jn3fxCoT59/j/1HfjoZFMtzOVDliIljJSwqNy\u002Bmy2DH5j\u002BAx0OTsw5xDHxAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-06-18T13:30:38.849Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Load_Plan_Dim.dtsx [Design]",
+              "DocumentMoniker": "D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_Plan_Dim.dtsx",
+              "RelativeDocumentMoniker": "Load_Plan_Dim.dtsx",
+              "ToolTip": "D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_Plan_Dim.dtsx [Design]",
+              "RelativeToolTip": "Load_Plan_Dim.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANbSURBVEhLtZVPbBR1FMc/0z/WlrYsalsqFEJrW4uaNo0nEhMCB4wHDhJCwkVTFYkaTTDxogdPGI0XTkRNtIfGhnirxkgkAuqBmxg0CkhCgUAr3Xa73bYzO\u002B\u002BPh9nZdretN77JL3kz7/f7zPu99/IGHoTcPUjtz8fP5oef7m02N1QNVUdNUYVYFDVHVBF1frvyZ\u002B7X82ffOv/t2NeVxHV0euz7vJWkqmuWqJpIsk59OWEfnz4TPXdw5MVqTqqa1BDR8ssgCNasmiCgpiaAIGA5jBjaPVDf2//UV08M7z9aPrhKZbCaVXrWkQFuzu27U5w89RlXr/3Tkmnf\u002BUX1PlaD41gqPVUyB1MnVufDEyO8f\u002BJN3j72Mt27djVW7wWoSw3VlVR88s21sg3w3uE\u002Bxi/c4s5MCDjusG9wK709Ozn386WKvalW5VhwT\u002BwZa2Qq081UppuZKEDMmV8UpjPdTGd6uL9pO2HREHGsdKZaFcXbaJMZVLvMHDHH02iqtAJWxVKyxATLBYLlApgiYrhTfhdES6iRRLxBzVeKJ1KO\u002BPi\u002BDt54to7Xh\u002BsY2bsNMdg/1M7R3QFH\u002BuHQk/V0ZBoQ9TU3SbXSbqWI3WFnRxM72pvY3tbE4481IWo82tJA5\u002BZG2jc30pZ5mLra2iQVG4RcUTw1x9wZ/XGS0XOTjP00yfiFW4hALEZRDVFHxFEFFWd9bFXx1Bwz52qulr9qu/i7rosbs4KqIwJqXp4jsRqxOb4BeaWPRRCFeKWdyyqqI2bECmJw8co0hqPqbNnxDAePf3oGYOKHP0Jujr7EarBYOtUCMIW4mDg8uX56dTVYjmOO7OkkVqM49AhhNHg4txAxcam\u002BAAm4oniioAbPDzTzwtZFDrQvsrd/CypOXOrbtPWWI\u002BHf2WVu3Jnn9\u002BtZfrk8laKoAIsIsSWzYKCrld5trfR2ttDT2ZJA46RosTrgLCzFzMyHzOQiZvMR2Xy4EViT4S5JLtVALMmjWJLbWEEU3GG\u002BUCSbi5jNh2TnQ\u002BbypdSVVP6DHHr1g/xrrxxrzs7lkw\u002BoJ7k1K3VDqSPMiR7aRH9bAzfvFcjmQmbmI\u002B7dX\u002BS7i9cLXH6ntQLcN7jn3fxCoT59/j/1HfjoZFMtzOVDliIljJSwqNy\u002Bmy2DH5j\u002BAx0OTsw5xDHxAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-06-18T12:37:45.868Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Load_Location_Dim.dtsx [Design]",
+              "DocumentMoniker": "D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_Location_Dim.dtsx",
+              "RelativeDocumentMoniker": "Load_Location_Dim.dtsx",
+              "ToolTip": "D:\\Sama\\studying\\Data warehouse\\Telecom_SSIS_Project_Pipeline\\Telecom_SSIS_Project\\Load_Location_Dim.dtsx [Design]",
+              "RelativeToolTip": "Load_Location_Dim.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANbSURBVEhLtZVPbBR1FMc/0z/WlrYsalsqFEJrW4uaNo0nEhMCB4wHDhJCwkVTFYkaTTDxogdPGI0XTkRNtIfGhnirxkgkAuqBmxg0CkhCgUAr3Xa73bYzO\u002B\u002BPh9nZdretN77JL3kz7/f7zPu99/IGHoTcPUjtz8fP5oef7m02N1QNVUdNUYVYFDVHVBF1frvyZ\u002B7X82ffOv/t2NeVxHV0euz7vJWkqmuWqJpIsk59OWEfnz4TPXdw5MVqTqqa1BDR8ssgCNasmiCgpiaAIGA5jBjaPVDf2//UV08M7z9aPrhKZbCaVXrWkQFuzu27U5w89RlXr/3Tkmnf\u002BUX1PlaD41gqPVUyB1MnVufDEyO8f\u002BJN3j72Mt27djVW7wWoSw3VlVR88s21sg3w3uE\u002Bxi/c4s5MCDjusG9wK709Ozn386WKvalW5VhwT\u002BwZa2Qq081UppuZKEDMmV8UpjPdTGd6uL9pO2HREHGsdKZaFcXbaJMZVLvMHDHH02iqtAJWxVKyxATLBYLlApgiYrhTfhdES6iRRLxBzVeKJ1KO\u002BPi\u002BDt54to7Xh\u002BsY2bsNMdg/1M7R3QFH\u002BuHQk/V0ZBoQ9TU3SbXSbqWI3WFnRxM72pvY3tbE4481IWo82tJA5\u002BZG2jc30pZ5mLra2iQVG4RcUTw1x9wZ/XGS0XOTjP00yfiFW4hALEZRDVFHxFEFFWd9bFXx1Bwz52qulr9qu/i7rosbs4KqIwJqXp4jsRqxOb4BeaWPRRCFeKWdyyqqI2bECmJw8co0hqPqbNnxDAePf3oGYOKHP0Jujr7EarBYOtUCMIW4mDg8uX56dTVYjmOO7OkkVqM49AhhNHg4txAxcam\u002BAAm4oniioAbPDzTzwtZFDrQvsrd/CypOXOrbtPWWI\u002BHf2WVu3Jnn9\u002BtZfrk8laKoAIsIsSWzYKCrld5trfR2ttDT2ZJA46RosTrgLCzFzMyHzOQiZvMR2Xy4EViT4S5JLtVALMmjWJLbWEEU3GG\u002BUCSbi5jNh2TnQ\u002BbypdSVVP6DHHr1g/xrrxxrzs7lkw\u002BoJ7k1K3VDqSPMiR7aRH9bAzfvFcjmQmbmI\u002B7dX\u002BS7i9cLXH6ntQLcN7jn3fxCoT59/j/1HfjoZFMtzOVDliIljJSwqNy\u002Bmy2DH5j\u002BAx0OTsw5xDHxAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-06-18T13:36:11.131Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
