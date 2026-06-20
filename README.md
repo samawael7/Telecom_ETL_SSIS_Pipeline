@@ -47,33 +47,12 @@ Instead of using standard sequential transforms, advanced data distribution rout
 * **Union All Transformation**: Merges both diverging data paths cleanly back into a unified stream before executing the lookups, optimizing parallel row inspection.
 
 ### 4. Case-Insensitive Source Extraction (`Load_CallType_Dim.dtsx`)
-* **Issue Encountered**: Raw transactions possessed heterogeneous representations (`local`, `LOCAL`, `roaming`, `ROAMING`). Running downstream filters resulted in duplicate records loading near-simultaneously.
-* **Refactored Resolution**: Pushed cleaning upstream to the SQL engine level by updating the Source query to apply structural grouping:
-```sql
-    SELECT DISTINCT UPPER(TRIM(call_type)) AS call_type
-    FROM Call_Records
-    WHERE call_type IS NOT NULL;
     ```
 * This ensures the lookup caches uniquely distinct items (`LOCAL`, `INTERNATIONAL`, `ROAMING`), preventing stream collision.
 
 ### 5. Enterprise Slowly Changing Dimensions (`Load_Customer_Dim.dtsx`)
-* **The Strategy**: Implemented **SCD Type 2 (Historical Attribute)** on the customer dimension to preserve absolute historical truth when data profiles shift over time.
-* **The Configuration Matrix**:
-    * **Business Key**: `customer_id`
-    * **Historical Attributes (SCD 2)**: `name`, `city`, `subscription_type`
-    * **Failover Controls**: Disabled *Inferred Member Support* because the structural orchestration strictly guarantees all dimensions populate fully prior to any fact table indexing.
-* **Automation Mechanics**: The wizard automatically provisions an `OLE DB Command` element to execute targeted update scripts mapping `is_current = False` and stamping execution boundary times onto the `end_date` metadata container for stale versions, while routing true modifications to the insertion layout.
 
 ### 6. Fact Table Duplication Resolution & Referential Integrity
-* **Issue Encountered**: The fact table does not maintain operational business keys like `call_id` to prevent memory blowouts. When full loops ran, records loaded multiple times.
-* **Refactored Resolution**: Implemented a composite evaluation engine inside the incremental Lookup layer. The incoming streams pass a verification check comparing a composite key matrix (`date_key`, `customer_key`, `plan_key`). Only unique combinations clear the validation fence.
-* **Referential Lockouts Handled**: When clearing faulty loads, strict `FOREIGN KEY` constraints restricted target deletions. Resolved gracefully using transactional constraints bypass script commands:
-```sql
-    EXEC sp_MSforeachtable "ALTER TABLE ? NOCHECK CONSTRAINT all"
-    DELETE FROM Call_fact;
-    DELETE FROM Call_type_dim;
-    DBCC CHECKIDENT ('Call_type_dim', RESEED, 0);
-    EXEC sp_MSforeachtable "ALTER TABLE ? WITH CHECK CHECK CONSTRAINT all"
     ```
 
 ---
